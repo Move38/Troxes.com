@@ -1,0 +1,76 @@
+
+#about-container h1 {				
+	font-family: 'DM Serif Display', serif;
+	font-size: 4em;
+}
+
+#about-container h2 {
+	font-family: 'DM Serif Display', serif;
+	font-size: 3em;
+}
+
+#about-container p {
+	font-size: 1.2em;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+#about-container sub {
+	font-size: .5em;
+	font-weight: bold;
+}
+
+#about-container a {
+	color: #FC463B;	
+}
+
+#about-container sub a{
+	font-size: .5em;
+	color: #FC463B;
+}
+
+#about-container ul{
+	list-style: none;
+}
+
+#about-container li{
+	list-style: none;
+	font-size: 1.2em;
+}
+
+#about-container {
+	font-family: Helvetica, sans-serif;
+	font-weight: 300;
+	line-height: 2em;
+	margin-top: 30px;
+	max-width: 720px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#about-blah {
+	margin: 0px;
+	padding: 0px;
+}
+#footer_cont {
+	max-width: 620px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 30px;
+	padding-bottom: 60px;
+}
+.orange {
+	color: #FC463B;
+			}
+.orange_bg {
+	background: #FC463B;
+	color: white;
+}
+
+#footnotes {
+	font-size: 0.8em;
+}
